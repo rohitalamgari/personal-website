@@ -1,2 +1,4 @@
-python-fasthtml==0.1.11
-uvicorn==0.30.1
+python-fasthtml>=0.1.11
+uvicorn>=0.30.1
+markdown
+fh-bootstrap>=0.0.3
